@@ -1,0 +1,1 @@
+Scrape the list of highest grossing films from Wikipedia. Return the number of movies that grossed over $2 billion before 2000, the first movie to cross $1.5 billion, the correlation between Rank and Gross, and plot a scatterplot with a red dotted regression line.

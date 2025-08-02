@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+numpy
+matplotlib
+scikit-learn
+duckdb
+httpx
+beautifulsoup4
+lxml
+aiofiles
