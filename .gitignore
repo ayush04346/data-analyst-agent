@@ -2,8 +2,11 @@
 __pycache__/
 *.py[cod]
 venv/
-.env
+
 
 # VS Code
 .vscode/
+
+# Environment
+.env
 
